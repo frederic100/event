@@ -1,5 +1,5 @@
 {
-    "name": "dddphp/event",
+    "name": "ddd-php/event",
     "type": "library",
     "description": "To implement events in domain driven developement or anyother styles projects with PHP",
     "keywords": ["templating"],
