@@ -1,1 +1,3 @@
-# event
+# Installation
+
+composer require ddd/event
